@@ -2,7 +2,7 @@
 
 DIO - Microsoft Azure AI Fundamentals... 
 
-# Detalhes do bootcamp
+# 🏆Detalhes do bootcamp
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
@@ -12,7 +12,7 @@ Com conteúdo completamente inédito, você vai se aprofundar nos principais con
 
 Destaque o seu perfil para ser encontrado por recrutadores de grandes empresas através da Talent Match (plataforma de contratação da DIO) e conecte-se com grandes nomes da Microsoft em conteúdos teóricos, práticos e mentorias ao vivo.
 
-### Atividades:
+### 🎯Atividades:
 Mentorias (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
 
 Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
@@ -21,7 +21,7 @@ Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com
 
 Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
-### Ferramentas para o seu aprendizado:
+### 💼Ferramentas para o seu aprendizado:
 Fórum: Espaço para você interagir e tirar suas dúvidas técnicas com a nossa comunidade.
 
 Rooms: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
